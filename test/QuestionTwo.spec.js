@@ -1,7 +1,7 @@
 var assert = require('assert');
 var decodeString = require('../QuestionTwo')
 
-describe('decode', function() {
+describe('Question 2', function() {
   it('decodes 4[ab]', function() {
     assert.equal( decodeString('4[ab]') , 'abababab');
   });

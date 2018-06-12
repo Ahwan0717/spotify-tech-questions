@@ -1,5 +1,5 @@
 var assert = require('assert');
-var changePossibilities = require('../QuestionThree')
+var changePossibilities = require('../solutions/QuestionThree')
 
 describe('Question 3', function() {
   it('finds the change possibilities', function() {

@@ -1,5 +1,5 @@
 var assert = require('assert');
-var sortByStrings = require('../QuestionOne')
+var sortByStrings = require('../solutions/QuestionOne')
 
 describe('Question 1', function() {
   it('sorts weather', function() {

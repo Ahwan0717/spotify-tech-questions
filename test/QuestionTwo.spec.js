@@ -1,5 +1,5 @@
 var assert = require('assert');
-var decodeString = require('../QuestionTwo')
+var decodeString = require('../solutions/QuestionTwo')
 
 describe('Question 2', function() {
   it('decodes 4[ab]', function() {
